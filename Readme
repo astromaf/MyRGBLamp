@@ -3,3 +3,11 @@ Work in progress.
 Visit http://madebyfrutos.wordpress.com/2013/01/07/my-rgb-lamp/ for more information.
 
 YouTuve video available: http://youtu.be/yhes_WA0_Wo
+
+Shows the operation of an RGB light using a digital LED strip. 
+After activating the bluetooth, open the apliacación to control the lamp.
+The program shows a hue palette divided into 30 rods: one for each LED from the strip.
+Click and drag the mouse cursor to make your own patterns. 
+Clicking on a rod while the spacebar is pressed removes the color (switch off this led).
+
+Part list: wooden support, RGB digitally-addressable LED strip, microcontroller (arduino pro mini, for example), Bluetooth or USB wire.
